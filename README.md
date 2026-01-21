@@ -1,6 +1,8 @@
 ## Overview
 
-This repository contains the implementation of the Knowledge Distillation (KD) framework proposed in the paper : “Knowledge Distillation-Driven Commit-Aware Multimodal Learning for Software Vulnerability Detection”.
+This repository provides an implementation of the Knowledge Distillation architecture and training procedure proposed in:
+
+Mahouachi, R. *Knowledge distillation-driven commit-aware multimodal learning for software vulnerability detection*. Automated Software Engineering, 33, 48 (2026).
 
 It includes the model architecture, training pipeline, and distillation strategy used to transfer knowledge from a teacher model to a lightweight student model. The code focuses on the core methodological components of the approach.
 
