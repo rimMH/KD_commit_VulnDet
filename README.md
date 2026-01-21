@@ -22,3 +22,9 @@ The datasets themselves are not included in this repository.
   *Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.*  
   Advances in Neural Information Processing Systems (NeurIPS), 32.  
   Dataset: https://github.com/epicosy/devign
+
+## Citation
+
+If you use this repository in your research, please cite the following paper:
+
+> Mahouachi, R. *Knowledge distillation-driven commit-aware multimodal learning for software vulnerability detection*. Automated Software Engineering, 33, 48 (2026). https://doi.org/10.1007/s10515-026-00595-z
